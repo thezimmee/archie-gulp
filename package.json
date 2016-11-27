@@ -1,0 +1,38 @@
+{
+  "name": "archie",
+  "version": "0.0.1",
+  "description": "archie = architect. npm build tool with pug and stylus or sass.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thezimmee/archie.git"
+  },
+  "author": "The Zimmee <thezimmee@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thezimmee/archie/issues"
+  },
+  "homepage": "https://github.com/thezimmee/archie#readme",
+  "main": "index.js",
+  "scripts": {},
+  "devDependencies": {
+    "browser-sync": "^2.18.1",
+    "del": "^2.2.2",
+    "front-matter": "^2.1.0",
+    "gulp": "github:gulpjs/gulp#4.0",
+    "gulp-autoprefixer": "^3.1.1",
+    "gulp-bump": "^2.5.0",
+    "gulp-cached": "^1.1.1",
+    "gulp-data": "^1.2.1",
+    "gulp-if": "^2.0.2",
+    "gulp-load-plugins": "^1.4.0",
+    "gulp-plumber": "^1.1.0",
+    "gulp-pug": "^3.1.0",
+    "gulp-remember": "^0.3.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^2.3.2",
+    "gulp-size": "^2.1.0",
+    "gulp-sourcemaps": "^2.2.0",
+    "gulp-stylus": "^2.6.0",
+    "minimist": "^1.2.0"
+  }
+}
